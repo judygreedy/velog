@@ -1,2 +1,2 @@
-public class hi { hi
+public class hi { hi hi
 }
